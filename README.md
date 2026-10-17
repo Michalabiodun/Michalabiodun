@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm a Full-Stack JavaScript Engineer 👋
 
-<!--
-**Michalabiodun/Michalabiodun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A detail-oriented software developer specializing in building responsive user interfaces, cross-platform mobile experiences, and scalable server-side systems.
 
-Here are some ideas to get you started:
+### 🛠️ Core Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Frontend Development
+* React & Next.js: State management, server-side rendering, and performance tuning.
+* Modern UI Engineering: Tailwind CSS, TypeScript, and semantic HTML/CSS.
+
+#### Mobile Development
+* React Native: Cross-platform iOS and Android applications, native modules, and fluid animations.
+
+#### Backend & Architecture
+* Node.js & Express: Scalable RESTful APIs, robust MVC architecture, and middleware implementation.
+* Database & BaaS: Supabase (Auth, Realtime, Storage) and relational database design with PostgreSQL.
+
+---
+
+### Technical Expertise & Focus
+
+* State Management: Extensive use of Redux Toolkit, Zustand, and React Query/TanStack Query.
+* Database Management: Writing optimized SQL queries, indexing, and schema migrations in PostgreSQL.
+* API Integration: Designing secure endpoints, handling JWT authentication, and managing WebSockets.
+
+---
+
+### Connect with me
+
+* 💼 LinkedIn: www.linkedin.com/in/michael-abiodun-89157a2ba
+* ✉️ Email: michaelsmart2k@gmail.com
+* 🌐 Portfolio: https://michaelabiodun.vercel.app/
