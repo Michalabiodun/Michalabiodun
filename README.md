@@ -28,5 +28,5 @@ A detail-oriented software developer specializing in building responsive user in
 ### Connect with me
 
 * 💼 LinkedIn: www.linkedin.com/in/michael-abiodun-89157a2ba
-* ✉️ Email: michaelsmart2k@gmail.com
+* ✉️ Email: michlabiodundev@gmail.com
 * 🌐 Portfolio: https://michaelabiodun.vercel.app/
